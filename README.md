@@ -15,7 +15,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools and learning software architecture and professional application building.
+> Deep in vibe-coding and learning mode – building AI-powered developer tools and learning software architecture and professional application building.
 
 📝 **[specs-before-code.com](https://idea-sprinter-web.vercel.app/)** – Multi Agent AI-powered Specification Document Generation (PRDs, SRSs).
 
