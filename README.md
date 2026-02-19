@@ -24,6 +24,7 @@
 - 📝 **[specs-before-code.com](https://idea-sprinter-web.vercel.app/)** – Multi Agent AI-powered Specification Document Generation (PRDs, SRSs).
 - 💬 **[is-it-critical](https://is-it-critical.streamlit.app/)** - Creative Coach - AI-powered chat to improve critical and creative thinking.
 - 🎓 **[BeUWI App](https://beuwi.app/#/search)** - BeUWI - An application that provides prospective students entering UWI, or wishing to enter, a glimpse of what programmes they qualify for based on their csec and / or cape subjects.
+- 🕵️ **[Agentrino](https://agentrino-frontend-web.vercel.app/)** - Agentrino - An application that allows the user to talk with specialized agents.
 
 
 ## GitHub Activity
